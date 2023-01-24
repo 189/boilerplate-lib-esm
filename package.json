@@ -1,6 +1,6 @@
 {
-  "name": "@helo-boilerplate/lib-js",
-  "version": "1.1.5",
+  "name": "@helo-boilerplate/lib-esm",
+  "version": "1.0.0",
   "main": "index.js",
   "author": "shangwenwang20@gmail.com",
   "scripts": {
