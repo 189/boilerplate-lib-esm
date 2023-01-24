@@ -1,0 +1,21 @@
+{
+  "name": "@helo-boilerplate/lib-js",
+  "version": "1.1.5",
+  "main": "index.js",
+  "author": "shangwenwang20@gmail.com",
+  "scripts": {
+    "vers": "standard-version"
+  },
+  "dependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.4",
+    "@commitlint/config-conventional": "^16.2.4",
+    "@duiyuan/commitlint-config": "^0.1.0",
+    "@duiyuan/eslint-config": "^0.1.3",
+    "eslint": "^8.14.0",
+    "prettier": "^2.6.2",
+    "typescript": "^4.3.2"
+  }
+}
