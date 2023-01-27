@@ -1,3 +1,3 @@
-# @helo-boilerplate/lib-esm
+# {{name}}
 
 Boilerplate of nodejs lib, support es module
