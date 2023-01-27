@@ -1,13 +1,13 @@
-# rollup-lib-js
+# {{name}}
 
 ### Install
 
 ```
-$ pnpm install
+$ npm install
 ```
 
 ### Development
 
 ```
-$ pnpm dev
+$ npm dev
 ```
